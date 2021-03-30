@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_Common", "QLDT_Common\QLDT_Common.csproj", "{58D5F0D6-C2E6-4D2E-90E9-FF108075955A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_Model", "QLDT_Model\QLDT_Model.csproj", "{04EB5202-5F61-4189-85E9-1104E4CA7161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_Data", "QLDT_Data\QLDT_Data.csproj", "{4E122903-6E06-4D7A-81BF-949EDC00976E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_Services", "QLDT_Services\QLDT_Services.csproj", "{84384A90-AD7A-4418-86D4-972487FF1A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_Unitest", "QLDT_Unitest\QLDT_Unitest.csproj", "{59FC3417-3E3A-450E-95BD-EBCC24604D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT_WebApps", "QLDT_WebApps\QLDT_WebApps.csproj", "{55FA93DF-FA6D-4F44-8570-9D514ABFB19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D5F0D6-C2E6-4D2E-90E9-FF108075955A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D5F0D6-C2E6-4D2E-90E9-FF108075955A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D5F0D6-C2E6-4D2E-90E9-FF108075955A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D5F0D6-C2E6-4D2E-90E9-FF108075955A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EB5202-5F61-4189-85E9-1104E4CA7161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EB5202-5F61-4189-85E9-1104E4CA7161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EB5202-5F61-4189-85E9-1104E4CA7161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EB5202-5F61-4189-85E9-1104E4CA7161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E122903-6E06-4D7A-81BF-949EDC00976E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E122903-6E06-4D7A-81BF-949EDC00976E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E122903-6E06-4D7A-81BF-949EDC00976E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E122903-6E06-4D7A-81BF-949EDC00976E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84384A90-AD7A-4418-86D4-972487FF1A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84384A90-AD7A-4418-86D4-972487FF1A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84384A90-AD7A-4418-86D4-972487FF1A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84384A90-AD7A-4418-86D4-972487FF1A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FC3417-3E3A-450E-95BD-EBCC24604D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FC3417-3E3A-450E-95BD-EBCC24604D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FC3417-3E3A-450E-95BD-EBCC24604D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FC3417-3E3A-450E-95BD-EBCC24604D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FA93DF-FA6D-4F44-8570-9D514ABFB19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FA93DF-FA6D-4F44-8570-9D514ABFB19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FA93DF-FA6D-4F44-8570-9D514ABFB19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FA93DF-FA6D-4F44-8570-9D514ABFB19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

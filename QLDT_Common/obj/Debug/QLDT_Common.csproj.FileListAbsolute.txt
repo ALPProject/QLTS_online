@@ -1,0 +1,4 @@
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Common\bin\Debug\QLDT_Common.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Common\bin\Debug\QLDT_Common.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Common\obj\Debug\QLDT_Common.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Common\obj\Debug\QLDT_Common.pdb

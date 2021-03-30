@@ -1,0 +1,11 @@
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Services.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Services.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\obj\Debug\QLDT_Services.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\obj\Debug\QLDT_Services.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\obj\Debug\QLDT_Services.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Common.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Data.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Model.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Common.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Data.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Services\bin\Debug\QLDT_Model.pdb

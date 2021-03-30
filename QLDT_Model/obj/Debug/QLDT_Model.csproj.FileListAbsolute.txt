@@ -1,0 +1,9 @@
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\QLDT_Model.dll.config
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\QLDT_Model.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\QLDT_Model.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\EntityFramework.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\EntityFramework.xml
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\obj\Debug\QLDT_Model.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Model\obj\Debug\QLDT_Model.pdb

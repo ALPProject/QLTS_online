@@ -1,0 +1,12 @@
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\QLDT_Data.dll.config
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\QLDT_Data.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\QLDT_Data.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\EntityFramework.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\EntityFramework.xml
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\obj\Debug\QLDT_Data.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\obj\Debug\QLDT_Data.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\obj\Debug\QLDT_Data.pdb
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\QLDT_Common.dll
+D:\SOURCE_CODE\TestCode\QLTS_Online\QLDT_Data\bin\Debug\QLDT_Common.pdb
